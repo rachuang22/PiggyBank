@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
+import ReactTable from 'react-table'
 import Doughnut from './components/Doughnut'
 import Gauge from './components/Gauge'
 import Line from './components/Line'
 import './App.css';
-// import { Link } from 'react-router-dom';
-// import '../react-bootstrap-with-material-design';
-
-import { MDBCard, MDBCardBody, MDBCol, MDBRow, MDBContainer} from "mdbreact";
-
-class App extends Component {
+class Expenses extends Component {
   render() {
     return (
 
@@ -16,12 +12,12 @@ class App extends Component {
       <div className="sidenav">
         <h5> $PiggyBank$ </h5>
         <a href="#clients">About</a>
-        <a href="Expenses.js" > Expenses </a>
-        <a href="App">Dashboard</a>
+        <a href="Expenses.js">Expenses</a>
+        <a href="App.js">Dashboard</a>
         <a href="contacts">Contact</a>
       </div>
         <div id="container-wrap">
-        <h1 id = "App-title"> PiggyBank Dashboard</h1>
+        <h1 id = "App-title"> PiggyBank Expenses</h1>
 
         <MDBContainer  className="mb-4">
             <MDBCard>
@@ -80,4 +76,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Expenses;

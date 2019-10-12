@@ -21,7 +21,7 @@ ReactFC.fcRoot(FusionCharts, Widgets, FusionTheme);
 const chartConfigs = {
     type: 'angulargauge', // The gauge type
     width: '500', // Width of the gauge
-    height: '300', // Height of the gauge
+    height: '400', // Height of the gauge
     dataFormat: 'json', // Data type
     dataSource: {
     // Chart Configuration
