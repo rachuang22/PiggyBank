@@ -1,6 +1,15 @@
+![Image of Dashboard](https://raw.githubusercontent.com/rachuang22/PiggyBank/master/src/images/dashboard1.png)
+![Image of Dashboard2](https://raw.githubusercontent.com/rachuang22/PiggyBank/master/src/images/dashboard2.png)
+## Introduction
+
+PiggyBank is a prototype expense tracker that helps users visualize where there money is going. Users are able to set a budget amount to spend every month or every year. PiggyBank was built on React framework using FusionCharts.
+
+
+
+## React Instructions
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
