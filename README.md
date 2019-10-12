@@ -2,7 +2,7 @@
 ![Image of Dashboard2](https://raw.githubusercontent.com/rachuang22/PiggyBank/master/src/images/dashboard2.png)
 ## Introduction
 
-PiggyBank is a prototype expense tracker that helps users visualize where there money is going. Users are able to set a budget amount to spend every month or every year. PiggyBank was built on React framework using FusionCharts.
+PiggyBank is a prototype expense tracker that helps users visualize where their money is going. Users are able to set a budget amount to spend every month or every year. PiggyBank was built on React framework using FusionCharts.
 
 
 
